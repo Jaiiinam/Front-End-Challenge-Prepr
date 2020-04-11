@@ -1,4 +1,4 @@
-# Front-End-Challenge-Prepr
+# Jainamkumar Patel FrontEnd Developer Challenge Prepr
 
 **Purpose**:
 
